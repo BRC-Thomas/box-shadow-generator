@@ -3,7 +3,7 @@ import  shadows from "./features/shadows"
 import boxProperties from "./features/boxProperties"
 
 export const store = configureStore({
-    reducers: {
+    reducer: {
         shadows,
         boxProperties
     }
