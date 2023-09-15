@@ -28,7 +28,7 @@ const initialState = [
   },
   {
     inputNumber: 4,
-    name: "CoBackground color",
+    name: "Background color",
     value: "#fff",
     type: "color",
     slice: "boxProperties",
